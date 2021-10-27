@@ -1,6 +1,6 @@
 # Week Nine Day Two: Inheritance
 
-In this assignment, you'll be implementing various classes. In addition, you will add some code to this assignment for the homework. Please see Canvas for details on the homework.
+In this assignment, you'll be implementing various classes. 
 
 For a warm-up today, you will first add code to [Person.java](src/main/java/Person.java) to implement the Person class. Then, you will add some code to [PersonClient.java](src/main/java/PersonClient.java) that carries of some very very basic testing code.
 

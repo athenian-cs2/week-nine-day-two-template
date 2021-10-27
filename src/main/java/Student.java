@@ -1,6 +1,6 @@
 //public class Student extends Person {
 //    // Instance variables:
-//    // firstName and lastName are already inheritted
+//    // firstName and lastName are already inherited
 //    private int classYear;
 //
 //    // Constructors
@@ -9,6 +9,12 @@
 //    public Student(String a, String b, int c) {
 //        super(a, b);
 //        this.classYear = c;
+//    }
+//
+//    // A constructor that assumes that a default student is a ninth-grader
+//    public Student(String a, String b) {
+//        super(a, b);
+//        this.classYear = 2025;
 //    }
 //
 //    // A default/no-argument constructor
@@ -31,7 +37,7 @@
 //
 //
 //    // Getters
-//    // We've already inheritted getFirstName() and getLastName()
+//    // We've already inherited getFirstName() and getLastName()
 //    // so we only need to add getClassYear
 //    public int getClassYear() {
 //        return this.classYear;
