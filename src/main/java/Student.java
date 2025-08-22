@@ -1,4 +1,4 @@
-//public class Student extends Person {
+// public class Student extends Person {
 //    // Instance variables:
 //    // firstName and lastName are already inherited
 //    private int classYear;
@@ -47,4 +47,4 @@
 //    public void setClassYear(int classYear) {
 //        this.classYear = classYear;
 //    }
-//}
+// }
